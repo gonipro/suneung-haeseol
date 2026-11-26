@@ -1,0 +1,1 @@
+{ "name": "suneung-haeseol", "version": "0.1.0", "description": "수능 비문학 해설 · Explain any post like a Korean CSAT reading-comprehension answer key", "author": { "name": "GoniPro", "url": "https://gonipro.app" }, "license": "MIT", "skills": "./skills" }
